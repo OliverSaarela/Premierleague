@@ -1,6 +1,6 @@
 # Scraping all Premier League stats
 
-Scrapes alltime data from every team that has played in the Premier League into a .csv file. File name format is `YYYY-MM-DD_team_data.csv`
+Scrapes alltime data from every team that has played in the Premier League into a .csv file.
 
 ## Getting started
 
@@ -31,3 +31,5 @@ pip install -r requirements.txt
 ```sh
 bash get_data.sh
 ```
+
+.csv file is now saved in Data folder. File name format is `YYYY-MM-DD_team_data.csv`
